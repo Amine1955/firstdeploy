@@ -1,0 +1,26 @@
+/* Responsive design */
+@media (max-width: 768px) {
+  .container {
+    padding: 0.5rem;
+  }
+
+  .visual-reports {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .chart {
+    flex: 1 1 100%;
+    max-width: 400px;
+  }
+
+  .transaction-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .add-transaction-form input,
+  .add-transaction-form select {
+    font-size: 0.9rem;
+  }
+}
