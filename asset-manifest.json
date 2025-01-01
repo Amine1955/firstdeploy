@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CAW_Labs/static/css/main.290b4beb.css",
+    "main.js": "/CAW_Labs/static/js/main.07ab04a5.js",
+    "index.html": "/CAW_Labs/index.html",
+    "main.290b4beb.css.map": "/CAW_Labs/static/css/main.290b4beb.css.map",
+    "main.07ab04a5.js.map": "/CAW_Labs/static/js/main.07ab04a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290b4beb.css",
+    "static/js/main.07ab04a5.js"
+  ]
+}
